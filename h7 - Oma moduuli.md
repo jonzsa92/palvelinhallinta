@@ -16,7 +16,7 @@ Vagrant oli minulla jo asennettuna koneella, mutta sen saa helposti asennettua W
 
 Tein koneelleni uuden kansion, jonka nimeksi tuli nyt moduuli.
 
-Avasin PowerShellin admin-käyttäjällä, siirsin näkymän komenolla `cd C:\Users\Jonzsa\Desktop\moduuli` , ja siellä käytin komentoa `New-Item -Path "C:\Users\Jonzsa\Desktop\moduuli\Vagrantfile" -ItemType File`. Näin saatiin tyhjä tiedosto tehtyä.
+Avasin PowerShellin admin-käyttäjällä, siirsin näkymän komenolla `cd C:\Users\Jonzsa\Desktop\Omamoduuli` , ja siellä käytin komentoa `New-Item -Path "C:\Users\Jonzsa\Desktop\Omamoduuli\Vagrantfile" -ItemType File`. Näin saatiin tyhjä tiedosto tehtyä.
 
 Seuraavaksi komentona `notepad.exe Vagrantfile` jotta saan muokattua tiedostoa ilman että se muuttaa tyyppiään.
 

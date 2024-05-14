@@ -84,7 +84,7 @@ Minion:
 
 Minion joutuu vielä muokkaamaan konfiguraatiota että se liittyy masterin alle:
 
-    sudoedit /etc/salt/minion //<- tuonne lisätään vain master: 192.168.88.101 (kone1 ip-osoite)
+    sudoedit /etc/salt/minion //<- tuonne lisätään vain master: 192.168.88.101 (master ip-osoite)
     sudo systemctl restart salt-minion
 
 Takaisin master koneelle, joudutaan hyväksymään minion avain, komento `sudo salt-key -A`. Y for yes.

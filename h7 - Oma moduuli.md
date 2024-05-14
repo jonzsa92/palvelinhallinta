@@ -104,7 +104,9 @@ Tämän jälkeen voidaan tehdä jo valmiiksi top.sls tiedosto:
 
 Tässä on top.sls:n tiedot:
 
-![image](https://github.com/jonzsa92/palvelinhallinta/assets/106398186/70f2a5fc-1878-4a7b-b131-e167e9c260f2)
+![image](https://github.com/jonzsa92/palvelinhallinta/assets/106398186/5c0ad0ab-c640-4fa3-b93b-6751e777d362)
+
+
 
 Tämän jälkeen, tehdään jokaiselle alikansiolle oma init.sls.
 

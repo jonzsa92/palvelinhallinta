@@ -1,11 +1,14 @@
-## Oma Moduuli
+## Oma Moduuli - Jonas Julin
 
 Tämän moduulin tarkoituksena on asentaa hyödyllisiä ohjelmia nopeasti.
 
 Käytin Vagrantia jolla tein master ja minion koneen. Vagrant pyöri Windows 10 koneella, jossa 16 GB RAM ja Ryzen 5 3600-prosessori.
 Master ja minion koneet ovat Debian/Bullseye64 koneita.
 
-## Lisenssi: 
+## Lisenssi
+
+GNU General Public License, version 3.
+https://github.com/jonzsa92/palvelinhallinta/tree/main?tab=GPL-3.0-1-ov-file#readme
 
 ## Vagrant, master and minion.
 

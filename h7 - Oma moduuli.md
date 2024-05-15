@@ -91,7 +91,7 @@ Takaisin master koneelle, joudutaan hyväksymään minion avain, komento `sudo s
 
 ## Moduuli
 
-Halusin asentaa muutaman ohjelman koneelle, ja näyttää että se menee helposti. Vagrantilla ssh yhteys masterkoneeseen `vagrant ssh master`. 
+Halusin asentaa muutaman ohjelman koneelle, ja näyttää että se menee helposti. Tässä moduulissa asennetaan FireFox, Apache2, Git, Curl, Micro, SSH ja palomuuri. Vagrantilla ssh yhteys masterkoneeseen `vagrant ssh master`. 
 
 Seuraavaksi tehdään kansio, `sudo mkdir /srv/salt`. Tähän kansioon tuodaan kaikki mitä halutaan asentaa. Tehdään jo kansiot niille, jota halutaan asentaa.
 

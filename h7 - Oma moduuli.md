@@ -14,7 +14,7 @@ https://github.com/jonzsa92/palvelinhallinta/tree/main?tab=GPL-3.0-1-ov-file#rea
 
 Vagrant oli minulla jo asennettuna koneella, mutta sen saa helposti asennettua Windowsille heidän omalta sivultaan: `https://developer.hashicorp.com/vagrant/downloads`, ja sieltä valitsee oman käyttöjärjestelmän. En käy kummemin Vagrantin asennusta tässä.
 
-Tein koneelleni uuden kansion, jonka nimeksi tuli nyt moduuli.
+Tein koneelleni uuden kansion, jonka nimeksi tuli nyt "Omamoduuli".
 
 Avasin PowerShellin admin-käyttäjällä, siirsin näkymän komenolla `cd C:\Users\Jonzsa\Desktop\Omamoduuli` , ja siellä käytin komentoa `New-Item -Path "C:\Users\Jonzsa\Desktop\Omamoduuli\Vagrantfile" -ItemType File`. Näin saatiin tyhjä tiedosto tehtyä.
 
